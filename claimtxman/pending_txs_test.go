@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/0xPolygonHermez/zkevm-bridge-service/etherman/smartcontracts/claimcompressor"
+	"github.com/fiwallets/zkevm-bridge-service/etherman/smartcontracts/claimcompressor"
 	zkevmtypes "github.com/0xPolygonHermez/zkevm-node/config/types"
 	"github.com/fiwallets/go-ethereum/accounts/abi"
 	"github.com/fiwallets/go-ethereum/accounts/abi/bind"

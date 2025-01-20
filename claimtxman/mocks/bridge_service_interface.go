@@ -7,7 +7,7 @@ import (
 
 	common "github.com/fiwallets/go-ethereum/common"
 
-	etherman "github.com/0xPolygonHermez/zkevm-bridge-service/etherman"
+	etherman "github.com/fiwallets/zkevm-bridge-service/etherman"
 
 	mock "github.com/stretchr/testify/mock"
 

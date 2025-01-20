@@ -3,9 +3,9 @@ package claimtxman
 import (
 	"context"
 
-	"github.com/0xPolygonHermez/zkevm-bridge-service/bridgectrl"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/claimtxman/types"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/etherman"
+	"github.com/fiwallets/zkevm-bridge-service/bridgectrl"
+	"github.com/fiwallets/zkevm-bridge-service/claimtxman/types"
+	"github.com/fiwallets/zkevm-bridge-service/etherman"
 	"github.com/fiwallets/go-ethereum/common"
 	"github.com/jackc/pgx/v4"
 )

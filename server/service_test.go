@@ -3,7 +3,7 @@ package server
 import (
 	"testing"
 
-	"github.com/0xPolygonHermez/zkevm-bridge-service/etherman"
+	"github.com/fiwallets/zkevm-bridge-service/etherman"
 	"github.com/fiwallets/go-ethereum/common"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"

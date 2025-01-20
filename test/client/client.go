@@ -7,9 +7,9 @@ import (
 	"math/big"
 	"net/http"
 
-	"github.com/0xPolygonHermez/zkevm-bridge-service/bridgectrl/pb"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/etherman"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/utils"
+	"github.com/fiwallets/zkevm-bridge-service/bridgectrl/pb"
+	"github.com/fiwallets/zkevm-bridge-service/etherman"
+	"github.com/fiwallets/zkevm-bridge-service/utils"
 	"github.com/fiwallets/go-ethereum/accounts/abi/bind"
 	"github.com/fiwallets/go-ethereum/common"
 	"google.golang.org/protobuf/encoding/protojson"

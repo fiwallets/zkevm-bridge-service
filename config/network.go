@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/0xPolygonHermez/zkevm-bridge-service/log"
+	"github.com/fiwallets/zkevm-bridge-service/log"
 	"github.com/fiwallets/go-ethereum/common"
 )
 

@@ -4,8 +4,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/0xPolygonHermez/zkevm-bridge-service/etherman"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/log"
+	"github.com/fiwallets/zkevm-bridge-service/etherman"
+	"github.com/fiwallets/zkevm-bridge-service/log"
 	"github.com/fiwallets/go-ethereum/accounts/abi"
 	"github.com/gobuffalo/packr/v2"
 	"github.com/jackc/pgx/v4"

@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	ctmtypes "github.com/0xPolygonHermez/zkevm-bridge-service/claimtxman/types"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/log"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/utils"
+	ctmtypes "github.com/fiwallets/zkevm-bridge-service/claimtxman/types"
+	"github.com/fiwallets/zkevm-bridge-service/log"
+	"github.com/fiwallets/zkevm-bridge-service/utils"
 	"github.com/0xPolygonHermez/zkevm-node/state/runtime"
 	"github.com/fiwallets/go-ethereum"
 	"github.com/fiwallets/go-ethereum/accounts/abi/bind"

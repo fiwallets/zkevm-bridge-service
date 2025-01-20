@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	ctmtypes "github.com/0xPolygonHermez/zkevm-bridge-service/claimtxman/types"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/log"
+	ctmtypes "github.com/fiwallets/zkevm-bridge-service/claimtxman/types"
+	"github.com/fiwallets/zkevm-bridge-service/log"
 	"github.com/fiwallets/go-ethereum/common"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

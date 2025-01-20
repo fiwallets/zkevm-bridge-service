@@ -4,8 +4,8 @@ import (
 	"context"
 	"math/big"
 
-	"github.com/0xPolygonHermez/zkevm-bridge-service/log"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/utils"
+	"github.com/fiwallets/zkevm-bridge-service/log"
+	"github.com/fiwallets/zkevm-bridge-service/utils"
 	"github.com/fiwallets/go-ethereum/common"
 )
 

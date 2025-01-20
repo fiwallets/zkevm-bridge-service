@@ -79,7 +79,7 @@ make test-edge
 
 ## Fund account on L2 with ETH
 
-If you need account with funds you can use the [deposit script](https://github.com/0xPolygonHermez/zkevm-bridge-service/blob/develop/test/scripts/deposit/main.go)
+If you need account with funds you can use the [deposit script](https://github.com/fiwallets/zkevm-bridge-service/blob/develop/test/scripts/deposit/main.go)
 to fund an account.
 For a list with accounts that already have ETH check out [node's docs](https://github.com/0xPolygonHermez/zkevm-node/blob/develop/docs/running_local.md#accounts).
 

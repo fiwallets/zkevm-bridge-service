@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	ctmtypes "github.com/0xPolygonHermez/zkevm-bridge-service/claimtxman/types"
+	ctmtypes "github.com/fiwallets/zkevm-bridge-service/claimtxman/types"
 	"github.com/jackc/pgx/v4"
 	"github.com/lib/pq"
 )

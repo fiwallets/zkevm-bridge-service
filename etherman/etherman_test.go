@@ -6,8 +6,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/0xPolygonHermez/zkevm-bridge-service/etherman/smartcontracts/polygonzkevmbridgev2"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/log"
+	"github.com/fiwallets/zkevm-bridge-service/etherman/smartcontracts/polygonzkevmbridgev2"
+	"github.com/fiwallets/zkevm-bridge-service/log"
 	"github.com/0xPolygonHermez/zkevm-node/etherman/smartcontracts/polygonzkevm"
 	"github.com/fiwallets/go-ethereum/accounts/abi/bind"
 	"github.com/fiwallets/go-ethereum/common"

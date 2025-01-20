@@ -5,11 +5,11 @@ import (
 	"os"
 	"os/signal"
 
-	zkevmbridgeservice "github.com/0xPolygonHermez/zkevm-bridge-service"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/autoclaimservice/autoclaim"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/autoclaimservice/blockchainmanager"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/autoclaimservice/config"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/log"
+	zkevmbridgeservice "github.com/fiwallets/zkevm-bridge-service"
+	"github.com/fiwallets/zkevm-bridge-service/autoclaimservice/autoclaim"
+	"github.com/fiwallets/zkevm-bridge-service/autoclaimservice/blockchainmanager"
+	"github.com/fiwallets/zkevm-bridge-service/autoclaimservice/config"
+	"github.com/fiwallets/zkevm-bridge-service/log"
 	"github.com/urfave/cli/v2"
 )
 

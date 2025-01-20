@@ -3,7 +3,7 @@ package claimtxman_test
 import (
 	"testing"
 
-	"github.com/0xPolygonHermez/zkevm-bridge-service/claimtxman"
+	"github.com/fiwallets/zkevm-bridge-service/claimtxman"
 	"github.com/fiwallets/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 )

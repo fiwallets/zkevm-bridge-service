@@ -3,8 +3,8 @@ package claimtxman
 import (
 	"fmt"
 
-	ctmtypes "github.com/0xPolygonHermez/zkevm-bridge-service/claimtxman/types"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/utils"
+	ctmtypes "github.com/fiwallets/zkevm-bridge-service/claimtxman/types"
+	"github.com/fiwallets/zkevm-bridge-service/utils"
 	"github.com/fiwallets/go-ethereum/common"
 	"github.com/google/go-cmp/cmp"
 )

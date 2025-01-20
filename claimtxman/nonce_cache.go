@@ -3,7 +3,7 @@ package claimtxman
 import (
 	"context"
 
-	"github.com/0xPolygonHermez/zkevm-bridge-service/utils"
+	"github.com/fiwallets/zkevm-bridge-service/utils"
 	"github.com/fiwallets/go-ethereum/common"
 	lru "github.com/hashicorp/golang-lru/v2"
 )

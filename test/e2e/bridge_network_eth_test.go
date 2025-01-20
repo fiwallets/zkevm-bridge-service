@@ -9,7 +9,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/0xPolygonHermez/zkevm-bridge-service/test/operations"
+	"github.com/fiwallets/zkevm-bridge-service/test/operations"
 	"github.com/fiwallets/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 )

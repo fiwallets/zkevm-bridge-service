@@ -3,10 +3,10 @@ package main
 import (
 	"context"
 
-	"github.com/0xPolygonHermez/zkevm-bridge-service/etherman"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/log"
-	clientUtils "github.com/0xPolygonHermez/zkevm-bridge-service/test/client"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/utils"
+	"github.com/fiwallets/zkevm-bridge-service/etherman"
+	"github.com/fiwallets/zkevm-bridge-service/log"
+	clientUtils "github.com/fiwallets/zkevm-bridge-service/test/client"
+	"github.com/fiwallets/zkevm-bridge-service/utils"
 	"github.com/fiwallets/go-ethereum/common"
 )
 

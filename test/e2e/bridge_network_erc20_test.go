@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/0xPolygonHermez/zkevm-bridge-service/log"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/test/operations"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/utils"
+	"github.com/fiwallets/zkevm-bridge-service/log"
+	"github.com/fiwallets/zkevm-bridge-service/test/operations"
+	"github.com/fiwallets/zkevm-bridge-service/utils"
 	erc20 "github.com/0xPolygonHermez/zkevm-node/etherman/smartcontracts/pol"
 	ops "github.com/0xPolygonHermez/zkevm-node/test/operations"
 	"github.com/fiwallets/go-ethereum/accounts/abi/bind"

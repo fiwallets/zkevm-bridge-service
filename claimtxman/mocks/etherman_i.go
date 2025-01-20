@@ -3,7 +3,7 @@
 package mock_txcompressor
 
 import (
-	claimcompressor "github.com/0xPolygonHermez/zkevm-bridge-service/etherman/smartcontracts/claimcompressor"
+	claimcompressor "github.com/fiwallets/zkevm-bridge-service/etherman/smartcontracts/claimcompressor"
 	bind "github.com/fiwallets/go-ethereum/accounts/abi/bind"
 
 	common "github.com/fiwallets/go-ethereum/common"

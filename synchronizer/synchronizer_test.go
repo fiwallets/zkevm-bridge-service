@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/0xPolygonHermez/zkevm-bridge-service/etherman"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/log"
-	"github.com/0xPolygonHermez/zkevm-bridge-service/utils/gerror"
+	"github.com/fiwallets/zkevm-bridge-service/etherman"
+	"github.com/fiwallets/zkevm-bridge-service/log"
+	"github.com/fiwallets/zkevm-bridge-service/utils/gerror"
 	cfgTypes "github.com/0xPolygonHermez/zkevm-node/config/types"
 	rpcTypes "github.com/0xPolygonHermez/zkevm-node/jsonrpc/types"
 	"github.com/fiwallets/go-ethereum/common"
