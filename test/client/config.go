@@ -1,6 +1,6 @@
 package client
 
-import "github.com/ethereum/go-ethereum/common"
+import "github.com/fiwallets/go-ethereum/common"
 
 // Config is a client config
 type Config struct {

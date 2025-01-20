@@ -8,8 +8,8 @@ import (
 	"time"
 
 	ops "github.com/0xPolygonHermez/zkevm-node/test/operations"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/ethclient"
+	"github.com/fiwallets/go-ethereum/core/types"
+	"github.com/fiwallets/go-ethereum/ethclient"
 )
 
 const (

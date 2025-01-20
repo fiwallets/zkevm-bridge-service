@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/fiwallets/go-ethereum/common"
 	"github.com/lib/pq"
 	"github.com/stretchr/testify/assert"
 )

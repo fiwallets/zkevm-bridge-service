@@ -15,12 +15,12 @@ import (
 	"github.com/0xPolygonHermez/zkevm-node/etherman/smartcontracts/oldpolygonzkevmbridge"
 	"github.com/0xPolygonHermez/zkevm-node/etherman/smartcontracts/polygonrollupmanager"
 	"github.com/0xPolygonHermez/zkevm-node/etherman/smartcontracts/polygonzkevmglobalexitroot"
-	"github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethclient"
+	"github.com/fiwallets/go-ethereum"
+	"github.com/fiwallets/go-ethereum/accounts/abi/bind"
+	"github.com/fiwallets/go-ethereum/common"
+	"github.com/fiwallets/go-ethereum/core/types"
+	"github.com/fiwallets/go-ethereum/crypto"
+	"github.com/fiwallets/go-ethereum/ethclient"
 	"golang.org/x/crypto/sha3"
 )
 

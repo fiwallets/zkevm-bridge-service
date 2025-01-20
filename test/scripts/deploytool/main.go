@@ -12,9 +12,9 @@ import (
 	"github.com/0xPolygonHermez/zkevm-bridge-service/utils"
 	"github.com/0xPolygonHermez/zkevm-node/config/types"
 	"github.com/0xPolygonHermez/zkevm-node/etherman/smartcontracts/proxy"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/common"
-	gethTypes "github.com/ethereum/go-ethereum/core/types"
+	"github.com/fiwallets/go-ethereum/accounts/abi/bind"
+	"github.com/fiwallets/go-ethereum/common"
+	gethTypes "github.com/fiwallets/go-ethereum/core/types"
 	"github.com/urfave/cli/v2"
 )
 

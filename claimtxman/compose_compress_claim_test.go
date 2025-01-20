@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/0xPolygonHermez/zkevm-bridge-service/claimtxman"
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/fiwallets/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 )
 

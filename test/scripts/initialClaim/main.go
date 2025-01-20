@@ -14,10 +14,10 @@ import (
 	"github.com/0xPolygonHermez/zkevm-node/hex"
 	"github.com/0xPolygonHermez/zkevm-node/state"
 	"github.com/0xPolygonHermez/zkevm-node/test/operations"
-	"github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/ethclient"
+	"github.com/fiwallets/go-ethereum"
+	"github.com/fiwallets/go-ethereum/accounts/abi/bind"
+	"github.com/fiwallets/go-ethereum/common"
+	"github.com/fiwallets/go-ethereum/ethclient"
 )
 
 const (

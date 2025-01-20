@@ -5,7 +5,7 @@ package server
 import (
 	context "context"
 
-	common "github.com/ethereum/go-ethereum/common"
+	common "github.com/fiwallets/go-ethereum/common"
 
 	etherman "github.com/0xPolygonHermez/zkevm-bridge-service/etherman"
 

@@ -5,7 +5,7 @@ package synchronizer
 import (
 	context "context"
 
-	common "github.com/ethereum/go-ethereum/common"
+	common "github.com/fiwallets/go-ethereum/common"
 
 	mock "github.com/stretchr/testify/mock"
 

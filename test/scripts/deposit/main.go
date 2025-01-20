@@ -6,7 +6,7 @@ import (
 
 	"github.com/0xPolygonHermez/zkevm-bridge-service/log"
 	"github.com/0xPolygonHermez/zkevm-bridge-service/utils"
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/fiwallets/go-ethereum/common"
 )
 
 const (

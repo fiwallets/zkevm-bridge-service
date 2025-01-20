@@ -25,9 +25,9 @@ import (
 	"github.com/0xPolygonHermez/zkevm-node/etherman/smartcontracts/polygonzkevmglobalexitroot"
 	"github.com/0xPolygonHermez/zkevm-node/test/contracts/bin/ERC20"
 	"github.com/0xPolygonHermez/zkevm-node/test/operations"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
+	"github.com/fiwallets/go-ethereum/accounts/abi/bind"
+	"github.com/fiwallets/go-ethereum/common"
+	"github.com/fiwallets/go-ethereum/core/types"
 )
 
 // NetworkSID is used to identify the network.

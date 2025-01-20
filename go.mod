@@ -1,11 +1,11 @@
-module github.com/0xPolygonHermez/zkevm-bridge-service
+module github.com/fiwallets/zkevm-bridge-service
 
 go 1.21
 
 require (
 	github.com/0xPolygonHermez/zkevm-node v0.7.3
 	github.com/barkimedes/go-deepcopy v0.0.0-20220514131651-17c30cfc62df
-	github.com/ethereum/go-ethereum v1.13.11
+	github.com/fiwallets/go-ethereum v1.1.4
 	github.com/gobuffalo/packr/v2 v2.8.3
 	github.com/google/go-cmp v0.6.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.22.0

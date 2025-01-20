@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/0xPolygonHermez/zkevm-bridge-service/test/operations"
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/fiwallets/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 )
 

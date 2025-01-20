@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/0xPolygonHermez/zkevm-bridge-service/utils"
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/fiwallets/go-ethereum/common"
 	lru "github.com/hashicorp/golang-lru/v2"
 )
 

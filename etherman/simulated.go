@@ -15,11 +15,11 @@ import (
 	"github.com/0xPolygonHermez/zkevm-node/etherman/smartcontracts/polygonzkevm"
 	"github.com/0xPolygonHermez/zkevm-node/etherman/smartcontracts/polygonzkevmglobalexitroot"
 	"github.com/0xPolygonHermez/zkevm-node/etherman/smartcontracts/proxy"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethclient/simulated"
+	"github.com/fiwallets/go-ethereum/accounts/abi/bind"
+	"github.com/fiwallets/go-ethereum/common"
+	"github.com/fiwallets/go-ethereum/core"
+	"github.com/fiwallets/go-ethereum/crypto"
+	"github.com/fiwallets/go-ethereum/ethclient/simulated"
 )
 
 // NewSimulatedEtherman creates an etherman that uses a simulated blockchain. It's important to notice that the ChainID of the auth

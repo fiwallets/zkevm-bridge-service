@@ -2,7 +2,7 @@ package claimtxman
 
 import (
 	"github.com/0xPolygonHermez/zkevm-node/config/types"
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/fiwallets/go-ethereum/common"
 )
 
 // Config is configuration for L2 claim transaction manager

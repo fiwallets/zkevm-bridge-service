@@ -15,8 +15,8 @@ import (
 	"github.com/0xPolygonHermez/zkevm-bridge-service/utils"
 	erc20 "github.com/0xPolygonHermez/zkevm-node/etherman/smartcontracts/pol"
 	ops "github.com/0xPolygonHermez/zkevm-node/test/operations"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/fiwallets/go-ethereum/accounts/abi/bind"
+	"github.com/fiwallets/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 )
 

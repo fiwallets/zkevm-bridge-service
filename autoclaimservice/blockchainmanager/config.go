@@ -2,7 +2,7 @@ package blockchainmanager
 
 import (
 	"github.com/0xPolygonHermez/zkevm-node/config/types"
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/fiwallets/go-ethereum/common"
 )
 
 // Config is the configuration struct for the different environments.
